@@ -1,8 +1,13 @@
-# τ AI Algorithms Showcase
+# τ AI Research — Partial Showcase
 
-Three branches:
-- an — Algebraic Attention Network (纯代数注意力网络)
-- 	au-softplus — s^τ softmax attention (可学习幂律归一化替代 softmax)
-- ulnp — Ultra-Light Neural Program (超轻量神经程序 + 14种几何代数)
+个人项目，部分算法源码展示。未包含完整实现，仅供思路参考。
 
-See each branch for details.
+## Branches
+
+| Branch | Topic |
+|--------|-------|
+| an | Algebraic Attention Network — 纯代数运算路线的序列模型 |
+| 	au-softplus | s^τ Learnable Power-law Normalization — 可学习幂律归一化替代 softmax |
+| ulnp | Ultra-Lightweight Neural Program — 几何代数结构替代注意力的序列建模 |
+
+Each branch contains obfuscated source code and real experiment reports.
